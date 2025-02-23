@@ -60,4 +60,4 @@ If you instantiate the child `NestedScrollRect` at runtime under a parent `Scrol
 
 ## License
 
-This project is licensed under the [MIT License](https://chatgpt.com/g/g-p-67bb2269bdb881919045d2570608985b-nested-scroll-rect/c/LICENSE).
+This project is licensed under the [MIT License](https://github.com/kwan3854/Nested-Scroll-Rect/blob/main/LICENSE).
